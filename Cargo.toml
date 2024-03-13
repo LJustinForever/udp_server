@@ -1,5 +1,5 @@
 [package]
-name = "udp_server"
+name = "sus"
 version = "0.1.0"
 edition = "2021"
 
