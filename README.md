@@ -4,7 +4,9 @@ SUS is a command-line tool written in Rust for sending and receiving data over U
 
 ## Usage
 
+```
 sus [-h] [-m <MESSAGE> <ADDRESS> | -f <PATH> <ADDRESS> | -s <PORT>]
+```
 
 - `-h`: Displays the help message and usage instructions.
 - `-m <MESSAGE> <ADDRESS>`: Sends the specified message to the given address.
